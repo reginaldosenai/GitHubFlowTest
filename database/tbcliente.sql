@@ -8,3 +8,4 @@ Create table cliente (
 
 )
 --sa
+--dada
