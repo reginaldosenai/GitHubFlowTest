@@ -7,3 +7,4 @@ Create table cliente (
   nome varchar(100) not null
 
 )
+--sa
